@@ -19,5 +19,5 @@
   <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-black?style=for-the-badge&logo=nodemon&logoColor=43853d" />  
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="WebPack" src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=Postman" />
 </p>
+
