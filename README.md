@@ -1,6 +1,7 @@
 ##Мои проекты:
-
-<a href = "https://github.com/Amirhad/Gym">Код</a>
+<ul>
+<li><a href = "https://github.com/Amirhad/Gym">Код</a></li>
+</ul> 
 
 ## My contacts
 
