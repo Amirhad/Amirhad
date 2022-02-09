@@ -1,7 +1,3 @@
-Мои проекты:
-Gym: Код | Демо
-Car-service: Код
-
 ## My contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/Amir_095r)
