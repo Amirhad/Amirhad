@@ -1,5 +1,5 @@
 Мои проекты:
-<a href = "https://github.com/Amirhad/Gym">Код></a>
+<a href = "https://github.com/Amirhad/Gym">Код</a>
 
 ## My contacts
 
