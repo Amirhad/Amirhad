@@ -1,10 +1,10 @@
-##Мои проекты:
+Мои проекты:
 <ul>
 
 Gym:<li><a href = "https://github.com/Amirhad/Gym">Код</a></li>
 </ul> 
 
-## My contacts
+## Мои контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/Amir_095r)
 [![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)](https://wa.me/79377820630)
