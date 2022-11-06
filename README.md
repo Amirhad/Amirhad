@@ -3,8 +3,7 @@
 - Gym: [Код](https://github.com/Amirhad/Gym) | [Демо](https://my-project-gym.herokuapp.com/)
 - Car-service: [Код](https://github.com/Amirhad/car-services-client) 
 
-
---BurgerBot: [Код](https://github.com/Amirhad/burgerReactBot)
+- BurgerBot: [Код](https://github.com/Amirhad/burgerReactBot)
 
 
 
